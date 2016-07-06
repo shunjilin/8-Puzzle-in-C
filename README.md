@@ -12,7 +12,6 @@ Shunji Lin
 * Priority Queue implemented with array of linked-list, array indexed by f-values
 * Encoding of states as hexadecimal according to position of tiles, takes ~36 bits per state
 
-Using manhattan distance heuristic, solves on average ~0.01s (cpu time) for board instance with 100,000 randomly generated steps, on Macbook Pro 2.3GHz intel i7, 4gb RAM
 
 
 
